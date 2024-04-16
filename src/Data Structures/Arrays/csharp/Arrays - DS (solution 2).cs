@@ -26,10 +26,12 @@ class Result
     {
         var n = a.Count;
         var reverse = new List<int>(n);
+        
         for (var i = n - 1; i >= 0; i--)
         {
            reverse.Add(a[i]);
         }
+        
         return reverse;
     }
 
