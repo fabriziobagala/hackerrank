@@ -10,14 +10,10 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 ![GitHub Repo stars](https://img.shields.io/github/stars/fabriziobagala/hackerrank?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/fabriziobagala/hackerrank?style=flat-square)
 
-<br />
-
 | Domain      | Subdomain | Problem | Solution | Score   |
 | ----------- | --------- | ------- | -------- | ------- |
 | Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum (ForEach)](src/Algorithms/Warmup/csharp/A%20Very%20Big%20Sum%20(ForEach).cs) | 10.00 |
 | Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum (LINQ)](src/Algorithms/Warmup/csharp/A%20Very%20Big%20Sum%20(LINQ).cs) | 10.00 |
-
-<br />
 
 ## License
 
