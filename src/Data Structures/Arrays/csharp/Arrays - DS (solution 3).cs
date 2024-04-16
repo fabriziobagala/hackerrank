@@ -25,6 +25,7 @@ class Result
     public static List<int> reverseArray(List<int> a)
     {
         var n = a.Count;
+        
         for (var i = 0; i < n / 2; i++)
         {
             var j = n - i - 1;
@@ -32,6 +33,7 @@ class Result
             a[i] = a[j];
             a[j] = temp;
         }
+        
         return a;
     }
 
