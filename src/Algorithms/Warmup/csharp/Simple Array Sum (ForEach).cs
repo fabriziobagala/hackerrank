@@ -25,10 +25,12 @@ class Result
     public static int simpleArraySum(List<int> ar)
     {
         var sum = 0;
+        
         foreach (var i in ar)
         {
             sum += i;
         }
+        
         return sum;
     }
 
