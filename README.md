@@ -8,7 +8,6 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 ![GitHub last commit](https://img.shields.io/github/last-commit/fabriziobagala/hackerrank/main?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fabriziobagala/hackerrank?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/fabriziobagala/hackerrank?style=flat-square)
-![GitHub License](https://img.shields.io/github/license/fabriziobagala/hackerrank?style=flat-square)
 
 | Domain      | Subdomain | Problem | Solution | Score   |
 | ----------- | --------- | ------- | -------- | ------- |
