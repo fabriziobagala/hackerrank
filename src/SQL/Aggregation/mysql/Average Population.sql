@@ -1,2 +1,2 @@
-SELECT ROUND(AVG(Population))
+SELECT FLOOR(AVG(Population))
 FROM City;
