@@ -12,8 +12,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Domain      | Subdomain | Problem | Solution | Language | Difficulty | Score   |
 | ----------- | --------- | ------- | -------- | -------- | ---------- | ------- |
 | Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum](src/Algorithms/Warmup/csharp/A%20Very%20Big%20Sum.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets (ForLoop)](src/Algorithms/Warmup/csharp/Compare%20the%20Triplets%20(ForLoop).cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets (LINQ)](src/Algorithms/Warmup/csharp/Compare%20the%20Triplets%20(LINQ).cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets](src/Algorithms/Warmup/csharp/Compare%20the%20Triplets.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Diagonal Difference](src/Algorithms/Warmup/csharp/Diagonal%20Difference.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Plus Minus (ForLoop)](src/Algorithms/Warmup/csharp/Plus%20Minus%20(ForLoop).cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Plus Minus (LINQ)](src/Algorithms/Warmup/csharp/Plus%20Minus%20(LINQ).cs) | C# | Easy | 10 |
