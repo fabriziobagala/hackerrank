@@ -17,8 +17,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Algorithms  | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Plus Minus](src/Algorithms/Warmup/csharp/Plus%20Minus%20.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Simple Array Sum](src/Algorithms/Warmup/csharp/Simple%20Array%20Sum%20.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solve Me First](src/Algorithms/Warmup/csharp/Solve%20Me%20First.cs) | C# | Easy | 1 |
-| Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase (ForLoop)](src/Algorithms/Warmup/csharp/Staircase%20(ForLoop).cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase (LINQ)](src/Algorithms/Warmup/csharp/Staircase%20(LINQ).cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase](src/Algorithms/Warmup/csharp/Staircase%20.cs) | C# | Easy | 10 |
 | Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS (LINQ)](src/Data%20Structures/Arrays/csharp/Array%20%2D%20DS%20(LINQ).cs) | C# | Easy | 10 |
 | Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS (InPlace)](src/Data%20Structures/Arrays/csharp/Array%20%2D%20DS%20(InPlace).cs) | C# | Easy | 10 |
 | Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS (NewList)](src/Data%20Structures/Arrays/csharp/Array%20%2D%20DS%20(NewList).cs) | C# | Easy | 10 |
