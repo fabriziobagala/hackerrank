@@ -14,6 +14,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum](src/Algorithms/Warmup/csharp/A%20Very%20Big%20Sum.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets](src/Algorithms/Warmup/csharp/Compare%20the%20Triplets.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Diagonal Difference](src/Algorithms/Warmup/csharp/Diagonal%20Difference.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Mini-Max Sum](src/Algorithms/Warmup/csharp/Mini-Max%20Sum.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Plus Minus](src/Algorithms/Warmup/csharp/Plus%20Minus%20.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Simple Array Sum](src/Algorithms/Warmup/csharp/Simple%20Array%20Sum%20.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solve Me First](src/Algorithms/Warmup/csharp/Solve%20Me%20First.cs) | C# | Easy | 1 |
