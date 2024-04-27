@@ -23,6 +23,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Data Structures | Stacks | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](src/Data%20Structures/Stacks/csharp/Balanced%20Brackets.cs) | C# | Medium | 25 |
 | Data Structures | Trie | [Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [Contacts](src/Data%20Structures/Trie/csharp/Contacts.cs) | C# | Medium | 40 |
 | SQL | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Average Population](src/SQL/Basic%20Select/mysql/Average%20Population.sql) | MySQL | Easy | 10 |
+| SQL | Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [African Cities](src/SQL/Basic%20Join/mysql/African%20Cities.sql) | MySQL | Easy | 10 |
 | SQL | Basic Join | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Population Census](src/SQL/Basic%20Join/mysql/Population%20Census.sql) | MySQL | Easy | 10 |
 | SQL | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Employee Names](src/SQL/Basic%20Select/mysql/Employee%20Names.sql) | MySQL | Easy | 10 |
 | SQL | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Employee Salaries](src/SQL/Basic%20Select/mysql/Employee%20Salaries.sql) | MySQL | Easy | 10 |
@@ -46,6 +47,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | SQL | Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Weather Observation Station 12](src/SQL/Basic%20Select/mysql/Weather%20Observation%20Station%2012.sql) | MySQL | Easy | 15 |
 | SQL | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Average Population](src/SQL/Basic%20Select/sql-server/Average%20Population.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Join | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Population Census](src/SQL/Basic%20Join/sql-server/Population%20Census.sql) | MS SQL | Easy | 10 |
+| SQL | Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [African Cities](src/SQL/Basic%20Join/sql-server/African%20Cities.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Employee Names](src/SQL/Basic%20Select/sql-serber/Employee%20Names.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Employee Salaries](src/SQL/Basic%20Select/sql-server/Employee%20Salaries.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Higher Than 75 Marks](src/SQL/Basic%20Select/sql-server/Higher%20Than%2075%20Marks.sql) | MS SQL | Easy | 15 |
