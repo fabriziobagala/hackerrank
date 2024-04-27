@@ -20,6 +20,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase](src/Algorithms/Warmup/csharp/Staircase%20.cs) | C# | Easy | 10 |
 | Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS](src/Data%20Structures/Arrays/csharp/Arrays%20-%20DS.cs) | C# | Easy | 10 |
 | Data Structures | Heap | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) | [Find the Running Median](src/Data%20Structures/Heap/csharp/Find%20the%20Running%20Median.cs) | C# | Hard | 50 |
+| Data Structures | Stacks | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](src/Data%20Structures/Stacks/csharp/Balanced%20Brackets.cs) | C# | Medium | 25 |
 | Data Structures | Trie | [Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [Contacts](src/Data%20Structures/Trie/csharp/Contacts.cs) | C# | Medium | 40 |
 | SQL | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Employee Salaries](src/SQL/Basic%20Select/mysql/Employee%20Salaries.sql) | MySQL | Easy | 10 |
 | SQL | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Higher Than 75 Marks](src/SQL/Basic%20Select/mysql/Higher%20Than%2075%20Marks.sql) | MySQL | Easy | 15 |
