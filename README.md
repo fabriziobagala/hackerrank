@@ -2,7 +2,7 @@
   <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="HackerRank's logo"/>
 </p>
 
-A collection of solutions for various HackerRank challenges, intended as a reference and learning tool for coding skill enhancement.
+A collection of solutions for various HackerRank challenges.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/fabriziobagala/hackerrank/main?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/fabriziobagala/hackerrank?style=flat-square)
