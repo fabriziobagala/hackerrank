@@ -25,6 +25,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Data Structures | Stacks | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](src/Data%20Structures/Stacks/Balanced%20Brackets.cs) | C# | Medium | 25 |
 | Data Structures | Trie | [Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [Contacts](src/Data%20Structures/Trie/Contacts.cs) | C# | Medium | 40 |
 | Linux Shell | Bash | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [A Personalized Echo](src/Linux%20Shell/Bash/A%20Personalized%20Echo.sh) | Bash | Easy | 1 |
+| Linux Shell | Bash | [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | [Comparing Numbers](src/Linux%20Shell/Bash/Comparing%20Numbers.sh) | Bash | Easy | 3 |
 | Linux Shell | Bash | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Let's Echo](src/Linux%20Shell/Bash/Let's%20Echo.sh) | Bash | Easy | 1 |
 | Linux Shell | Bash | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Looping and Skipping](src/Linux%20Shell/Bash/Looping%20and%20Skipping.sh) | Bash | Easy | 2 |
 | Linux Shell | Bash | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) | [Looping with Numbers](src/Linux%20Shell/Bash/Looping%20with%20Numbers.sh) | Bash | Easy | 2 |
