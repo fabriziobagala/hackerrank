@@ -11,19 +11,19 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 
 | Domain      | Subdomain | Problem | Solution | Language | Difficulty | Score   |
 | ----------- | --------- | ------- | -------- | -------- | ---------- | ------- |
-| Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum](src/Algorithms/Warmup/csharp/A%20Very%20Big%20Sum.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets](src/Algorithms/Warmup/csharp/Compare%20the%20Triplets.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Diagonal Difference](src/Algorithms/Warmup/csharp/Diagonal%20Difference.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Mini-Max Sum](src/Algorithms/Warmup/csharp/Mini-Max%20Sum.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Plus Minus](src/Algorithms/Warmup/csharp/Plus%20Minus%20.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Simple Array Sum](src/Algorithms/Warmup/csharp/Simple%20Array%20Sum%20.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solve Me First](src/Algorithms/Warmup/csharp/Solve%20Me%20First.cs) | C# | Easy | 1 |
-| Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase](src/Algorithms/Warmup/csharp/Staircase%20.cs) | C# | Easy | 10 |
-| Algorithms  | Warmup    | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Time Conversion](src/Algorithms/Warmup/csharp/Time%20Conversion.cs) | C# | Easy | 15 |
-| Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS](src/Data%20Structures/Arrays/csharp/Arrays%20-%20DS.cs) | C# | Easy | 10 |
-| Data Structures | Heap | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) | [Find the Running Median](src/Data%20Structures/Heap/csharp/Find%20the%20Running%20Median.cs) | C# | Hard | 50 |
-| Data Structures | Stacks | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](src/Data%20Structures/Stacks/csharp/Balanced%20Brackets.cs) | C# | Medium | 25 |
-| Data Structures | Trie | [Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [Contacts](src/Data%20Structures/Trie/csharp/Contacts.cs) | C# | Medium | 40 |
+| Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum](src/Algorithms/Warmup/A%20Very%20Big%20Sum.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets](src/Algorithms/Warmup/Compare%20the%20Triplets.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Diagonal Difference](src/Algorithms/Warmup/Diagonal%20Difference.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Mini-Max Sum](src/Algorithms/Warmup/Mini-Max%20Sum.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Plus Minus](src/Algorithms/Warmup/Plus%20Minus%20.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Simple Array Sum](src/Algorithms/Warmup/Simple%20Array%20Sum%20.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solve Me First](src/Algorithms/Warmup/Solve%20Me%20First.cs) | C# | Easy | 1 |
+| Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase](src/Algorithms/Warmup/Staircase%20.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Time Conversion](src/Algorithms/Warmup/Time%20Conversion.cs) | C# | Easy | 15 |
+| Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS](src/Data%20Structures/Arrays/Arrays%20-%20DS.cs) | C# | Easy | 10 |
+| Data Structures | Heap | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) | [Find the Running Median](src/Data%20Structures/Heap/Find%20the%20Running%20Median.cs) | C# | Hard | 50 |
+| Data Structures | Stacks | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](src/Data%20Structures/Stacks/Balanced%20Brackets.cs) | C# | Medium | 25 |
+| Data Structures | Trie | [Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [Contacts](src/Data%20Structures/Trie/Contacts.cs) | C# | Medium | 40 |
 | Linux Shell | Bash | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [A Personalized Echo](src/Linux%20Shell/Bash/A%20Personalized%20Echo.sh) | Bash | Easy | 1 |
 | Linux Shell | Bash | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Let's Echo](src/Linux%20Shell/Bash/Let's%20Echo.sh) | Bash | Easy | 1 |
 | Linux Shell | Bash | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Looping and Skipping](src/Linux%20Shell/Bash/Looping%20and%20Skipping.sh) | Bash | Easy | 2 |
