@@ -19,6 +19,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Algorithms  | Warmup    | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Simple Array Sum](src/Algorithms/Warmup/csharp/Simple%20Array%20Sum%20.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solve Me First](src/Algorithms/Warmup/csharp/Solve%20Me%20First.cs) | C# | Easy | 1 |
 | Algorithms  | Warmup    | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Staircase](src/Algorithms/Warmup/csharp/Staircase%20.cs) | C# | Easy | 10 |
+| Algorithms  | Warmup    | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Time Conversion](src/Algorithms/Warmup/csharp/Time%20Conversion.cs) | C# | Easy | 15 |
 | Data Structures | Arrays | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Array - DS](src/Data%20Structures/Arrays/csharp/Arrays%20-%20DS.cs) | C# | Easy | 10 |
 | Data Structures | Heap | [Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem) | [Find the Running Median](src/Data%20Structures/Heap/csharp/Find%20the%20Running%20Median.cs) | C# | Hard | 50 |
 | Data Structures | Stacks | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](src/Data%20Structures/Stacks/csharp/Balanced%20Brackets.cs) | C# | Medium | 25 |
