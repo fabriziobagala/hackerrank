@@ -11,6 +11,7 @@ A collection of solutions for various HackerRank challenges.
 
 | Domain      | Subdomain | Problem | Solution | Language | Difficulty | Score   |
 | ----------- | --------- | ------- | -------- | -------- | ---------- | ------- |
+| Algorithms  | Implementation    | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Grading Students](src/Algorithms/Implementation/Grading%20Students.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum](src/Algorithms/Warmup/A%20Very%20Big%20Sum.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Birthday Cake Candles](src/Algorithms/Warmup/Birthday%20Cake%20Candles.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare the Triplets](src/Algorithms/Warmup/Compare%20the%20Triplets.cs) | C# | Easy | 10 |
