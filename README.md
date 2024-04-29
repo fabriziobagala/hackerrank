@@ -26,6 +26,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | Data Structures | Trie | [Contacts](https://www.hackerrank.com/challenges/contacts/problem) | [Contacts](src/Data%20Structures/Trie/csharp/Contacts.cs) | C# | Medium | 40 |
 | SQL | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Average Population](src/SQL/Basic%20Select/mysql/Average%20Population.sql) | MySQL | Easy | 10 |
 | SQL | Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [African Cities](src/SQL/Basic%20Join/mysql/African%20Cities.sql) | MySQL | Easy | 10 |
+| SQL | Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Average Population of Each Continent](src/SQL/Basic%20Join/mysql/Average%20Population%20of%20Each%20Continent.sql) | MySQL | Easy | 10 |
 | SQL | Basic Join | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Population Census](src/SQL/Basic%20Join/mysql/Population%20Census.sql) | MySQL | Easy | 10 |
 | SQL | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Top Competitors](src/SQL/Basic%20Join/mysql/Top%20Competitors.sql) | MySQL | Medium | 30 |
 | SQL | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Employee Names](src/SQL/Basic%20Select/mysql/Employee%20Names.sql) | MySQL | Easy | 10 |
@@ -51,6 +52,7 @@ A collection of solutions for various HackerRank challenges, intended as a refer
 | SQL | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Average Population](src/SQL/Basic%20Select/sql-server/Average%20Population.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Join | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Population Census](src/SQL/Basic%20Join/sql-server/Population%20Census.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [African Cities](src/SQL/Basic%20Join/sql-server/African%20Cities.sql) | MS SQL | Easy | 10 |
+| SQL | Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Average Population of Each Continent](src/SQL/Basic%20Join/sql-server/Average%20Population%20of%20Each%20Continent.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Top Competitors](src/SQL/Basic%20Join/sql-server/Top%20Competitors.sql) | MS SQL | Medium | 30 |
 | SQL | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Employee Names](src/SQL/Basic%20Select/sql-serber/Employee%20Names.sql) | MS SQL | Easy | 10 |
 | SQL | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Employee Salaries](src/SQL/Basic%20Select/sql-server/Employee%20Salaries.sql) | MS SQL | Easy | 10 |
