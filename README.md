@@ -42,6 +42,7 @@ A collection of solutions for various HackerRank challenges.
 | Linux Shell | Bash | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [The World of Numbers](src/Linux%20Shell/Bash/The%20World%20of%20Numbers.sh) | Bash | Easy | 2 |
 | Linux Shell | Text Processing | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Cut #1](src/Linux%20Shell/Text%20Processing/Cut%20%231.sh) | Bash | Easy | 1 |
 | Linux Shell | Text Processing | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Cut #2](src/Linux%20Shell/Text%20Processing/Cut%20%232.sh) | Bash | Easy | 1 |
+| SQL | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [The PADS](src/SQL/Advanced%20Select/mysql/The%20PADS.sql) | MySQL | Medium | 30 |
 | SQL | Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Type of Triangle](src/SQL/Advanced%20Select/mysql/Type%20of%20Triangle.sql) | MySQL | Easy | 20 |
 | SQL | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Average Population](src/SQL/Basic%20Select/mysql/Average%20Population.sql) | MySQL | Easy | 10 |
 | SQL | Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Japan Population](src/SQL/Aggregation/mysql/Japan%20Population.sql) | MySQL | Easy | 10 |
@@ -86,6 +87,7 @@ A collection of solutions for various HackerRank challenges.
 | SQL | Basic Select | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Weather Observation Station 10](src/SQL/Basic%20Select/mysql/Weather%20Observation%20Station%2010.sql) | MySQL | Easy | 10 |
 | SQL | Basic Select | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Weather Observation Station 11](src/SQL/Basic%20Select/mysql/Weather%20Observation%20Station%2011.sql) | MySQL | Easy | 15 |
 | SQL | Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Weather Observation Station 12](src/SQL/Basic%20Select/mysql/Weather%20Observation%20Station%2012.sql) | MySQL | Easy | 15 |
+| SQL | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [The PADS](src/SQL/Advanced%20Select/sql-server/The%20PADS.sql) | MS SQL | Medium | 30 |
 | SQL | Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Type of Triangle](src/SQL/Advanced%20Select/sql-server/Type%20of%20Triangle.sql) | MS SQL | Easy | 20 |
 | SQL | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Average Population](src/SQL/Basic%20Select/sql-server/Average%20Population.sql) | MS SQL | Easy | 10 |
 | SQL | Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Japan Population](src/SQL/Aggregation/sql-server/Japan%20Population.sql) | MS SQL | Easy | 10 |
