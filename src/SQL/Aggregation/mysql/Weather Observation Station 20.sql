@@ -1,0 +1,4 @@
+SELECT ROUND(s1.LAT_N, 4)
+FROM Station s1, Station s2
+GROUP BY s1.LAT_N
+HAVING SUM(SIGN(s2.LAT_N - s1.LAT_N)) = 0;
