@@ -12,6 +12,7 @@ A collection of solutions for various HackerRank challenges.
 | Domain      | Subdomain | Problem | Solution | Language | Difficulty | Score   |
 | ----------- | --------- | ------- | -------- | -------- | ---------- | ------- |
 | Algorithms  | Implementation    | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Bill Division](src/Algorithms/Implementation/Bill%20Division.cs) | C# | Easy | 10 |
+| Algorithms  | Implementation    | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Breaking the Records](src/Algorithms/Implementation/Breaking%20the%20Records.cs) | C# | Easy | 10 |
 | Algorithms  | Implementation    | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Divisible Sum Pairs](src/Algorithms/Implementation/Divisible%20Sum%20Pairs.cs) | C# | Easy | 10 |
 | Algorithms  | Implementation    | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Grading Students](src/Algorithms/Implementation/Grading%20Students.cs) | C# | Easy | 10 |
 | Algorithms  | Warmup    | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [A Very Big Sum](src/Algorithms/Warmup/A%20Very%20Big%20Sum.cs) | C# | Easy | 10 |
